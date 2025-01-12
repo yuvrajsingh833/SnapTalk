@@ -23,6 +23,7 @@ SnapTalk is a real-time chat application built with the power of the MERN stack 
 - **User Authentication:** Sign up, log in.
 - **Avatar Profile:** User can create their avatar profile.
 - **Responsive Design:** Fully responsive UI, optimized for mobile and desktop devices.
+- **Display of chat history:** User can see their chat history anytime
 
 ## Installation Guide
 
