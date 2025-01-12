@@ -3,7 +3,7 @@
 
 SnapTalk is a real-time chat application built with the power of the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to chat seamlessly, share messages, and emojies making it a versatile and robust communication tool.
 
-![login page](./images/Login.png)
+![login page](./images/LogIn.png)
 
 ![Registration page](./images/Registration.png)
 
