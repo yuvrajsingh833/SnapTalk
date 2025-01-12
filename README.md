@@ -41,7 +41,7 @@ Ensure MongoDB is running before proceeding with the installation.
    Clone the repository to your local machine using the following command:
    ```shell
    git clone https://github.com/yuvrajsingh833/SnapTalk.git
-   cd SnapTalk-A Live Chatting Application
+   cd SnapTalk-A Live Chat Application
    ```
 
 2. **Rename Environment Files**  
