@@ -7,6 +7,11 @@ SnapTalk is a real-time chat application built with the power of the MERN stack 
 
 ![Registration page](./images/Registration.png)
 
+![Avatar Set page](./images/SetAvatarPic.png)
+
+![Conversation page](./images/Conversation.png)
+
+
 ## Installation Guide
 
 ### Requirements
